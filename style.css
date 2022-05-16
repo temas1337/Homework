@@ -87,7 +87,7 @@
 }
 
 .longImg {
-    background-image: url(new/Cloth.png);
+    background-image: url(image/Cloth.png);
     display: flex;
     justify-content: center;
     margin-top: 30px;
@@ -100,7 +100,7 @@
 .item1 {
     width: 360px;
     height: 260px;
-    background-image: url(new/girl.png) ;
+    background-image: url(image/girl.png) ;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -109,7 +109,7 @@
 .item2 {
     width: 360px;
     height: 260px;
-    background-image: url(new/man2.png) ;
+    background-image: url(image/man2.png) ;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -118,7 +118,7 @@
 .item3 {
     width: 360px;
     height: 260px;
-    background-image: url(new/chaild.png) ; 
+    background-image: url(image/chaild.png) ; 
     display: flex;
     justify-content: center;
     align-items: center;
