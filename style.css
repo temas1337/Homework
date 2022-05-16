@@ -1,0 +1,139 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    background-color: #222;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+}
+
+.brend {
+    background-color: rgba(241, 228, 230, 1);
+    height: 764px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.header {
+    
+}
+
+.container {
+    width: 1140px;
+    justify-content: space-between;
+    display: flex;
+    
+    
+}
+
+.right_menu {
+    margin: 26px 0px 20px ;
+    display:flex;
+}
+
+.left_menu {
+    margin: 26px 0px 20px 0px;
+    display:flex;
+}
+
+.img {
+    margin-left: 33px;
+}
+
+.line {
+    width: 12px;
+    height: 92px;
+    background: #F16D7F;
+    margin-right: 16px;
+}
+
+.line_words {
+    margin-top: 290px;
+}
+
+.text {
+    margin-top: 290px;
+}
+.containerForAll {
+    display: flex;
+    width: 1140px;
+    
+}  
+
+.links {
+    margin-top: 65px;
+ 
+}
+
+.links_place {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.item {
+    margin-right: 30px;
+    display: float ;
+}
+
+.linkDope {
+    display: flex;
+    justify-content: center;
+}
+
+.longImg {
+    background-image: url(new/Cloth.png);
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    width: 1140px;
+    height: 180px;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.item1 {
+    width: 360px;
+    height: 260px;
+    background-image: url(new/girl.png) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item2 {
+    width: 360px;
+    height: 260px;
+    background-image: url(new/man2.png) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item3 {
+    width: 360px;
+    height: 260px;
+    background-image: url(new/chaild.png) ; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.linkBlock {
+    position: absolute;
+         display: block;
+         height: 260px;
+         width: 360px;
+}
+.linkBlockLong {
+    position: absolute;
+         display: block;
+         height: 180px;
+         width: 1140px;
+}
+
